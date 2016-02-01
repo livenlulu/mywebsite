@@ -1,0 +1,83 @@
+p {
+  font-family: quicksand;
+
+}
+
+a {
+  color: white;
+}
+
+#myFirstDiv {
+  background-color: white;
+  color: black;
+  margin: 10px;
+  padding: 15px;
+  font-family: quicksand;
+  border-radius: 10px;
+}
+
+img {
+  height: 30px;
+  width: 30px;
+}
+
+li a {
+  color: yellow;
+}
+
+.comm {
+  background-color:black;
+  color: white;
+  
+}
+
+
+.notTestClass {
+  margin-left: 0px;
+}
+
+.sub {
+  font-weight:200;
+
+}
+
+#count {
+  line-height: 30px;
+  text-align: center;
+  font-size: 12px;
+}
+.hasBackgroundImage {
+  height: 80px;
+  width: 80px;
+  
+  background-image: url('http://www.colorsolex.com/files/theme/3.png');
+  background-size: 100%;
+}
+
+.best {
+  
+  background-color: #FFFF00;
+  
+}
+#product {
+  height: 180px;
+  width: 200px;
+
+  background-size: 100%;
+}
+#show {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button {
+  padding: 5px;
+  border-radius: 8px;
+  font-size: 10px;
+  border: grey 1px solid;
+  border-radius: 10px;
+  font-weight: bold;
+  background: black;
+  color: white;
+  
+}
